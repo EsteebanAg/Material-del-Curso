@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
 
-	int edad=17; //Aquí se está declarando que la edad.
+	int edad=30; //Aquí se está declarando que la edad.
 	
 	if (edad >=60){
 	cout<<"Eres de la Tercera Edad"<<endl;
